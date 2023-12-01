@@ -1,8 +1,8 @@
 # Video-Game-Sales-Data-Analysis
 
 The video game market is a billion-dollar business that has a large and expanding fan base. This expanding sector
-has grown in significance both commercially and poli􀆟cally. According to a business report by the Grand View
-Research [1], in 2022 the global video game market size was es􀆟mated at USD 217.06 billion and is expected to
+has grown in significance both commercially and politically. According to a business report by the Grand View
+Research [1], in 2022 the global video game market size was estimated at USD 217.06 billion and is expected to
 grow at a compound annual growth rate (CAGR) of 13.4% from 2023 to 2030. With the advancement of
 technologies such as more powerful personal computers and other forms of digital devices, video games are now
 more accessible, portable, and social for the users.
