@@ -11,10 +11,10 @@ game market. Then, we compare the North American video game market data with oth
 with the video game market in Japan and the global video game market. We intend to examine the crucial
 elements that determine a video game's success and how this success varies globally. We will cover the following
 questons to guide our analysis:
- How do certain game atributes such as genre, platorm and publisher affect video games sales
+*How do certain game atributes such as genre, platorm and publisher affect video games sales
 worldwide?
- How do video game sales differ from region to region?
- How have video game sales been across the year from 2000 to 2009 and vary from region to region?
+*How do video game sales differ from region to region?
+*How have video game sales been across the year from 2000 to 2009 and vary from region to region?
 In additon, we will make a predicton regarding sales for a partcular genre for the years 2010 to 2019. After that
 we will compare our predicted sales values with the actual historical values. To check how accurate our
 predicton was.
