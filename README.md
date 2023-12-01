@@ -1,5 +1,5 @@
-# Video-Game-Sales-
-Video Game Sales Data Analysis
+# Video-Game-Sales-Data-Analysis
+Video Game Sales Data Analysis:
 The video game market is a billion-dollar business that has a large and expanding fan base. This expanding sector
 has grown in significance both commercially and poli􀆟cally. According to a business report by the Grand View
 Research [1], in 2022 the global video game market size was es􀆟mated at USD 217.06 billion and is expected to
@@ -22,7 +22,7 @@ The task is that I need to answer some business ques􀆟ons that will help game 
 do so, I need to analyze the data. I need to give some recommenda􀆟ons to decision makers. To fulfill the
 requirement of this given task, I need to present an in-depth analysis of the game business. For these reasons, I
 have chosen to write a formal report.
-Data Source :
+Data Source : https://www.kaggle.com/datasets/gregorut/videogamesales
 References :
 [1] Grand View Research (2023). Video Game Market Size, Share & Trends Report Video Game Market Size, Share
 & Trends Analysis report 2023-2030. Accessed at: h􀆩ps://www.grandviewresearch.com/industry-analysis/videogame-
